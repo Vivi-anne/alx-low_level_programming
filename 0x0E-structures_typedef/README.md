@@ -13,6 +13,6 @@ A header file containing a new type 'struct dog'
 ## 4-new_dog.c
 Its a function that creates a new dog.
 
-#3 5-free_dog.c
+## 5-free_dog.c
 Its a function that frees dogs.
 
