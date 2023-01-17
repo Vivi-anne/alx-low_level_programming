@@ -1,4 +1,4 @@
-#0.Object-like Macro
+##0.Object-like Macro
 This file defines a macro named Size as an abbreviation for token 1024
 
 ##1-pi.h
