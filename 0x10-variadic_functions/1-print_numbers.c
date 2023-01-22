@@ -1,12 +1,9 @@
 #include "variadic_functions.h"
-#include <stdarg.h>
-#include <stdio.h>
 
 /**
  * print_numbers - prints a list of numbers with a separator
  * @n: number of integers passed to the function
  * @separator: string to be printed between numbers
- * Return: Nothing if separator is NULL
  */
 void print_numbers(const char *separator, const unsigned int n, ...)
 {
